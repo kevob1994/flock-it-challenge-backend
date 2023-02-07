@@ -30,7 +30,7 @@ RUTA PRINCIPAL: https://flock-it-challenge-backend-production.up.railway.app
 - Previamente tener instalado la base de datos postgres
 - Crear archivo .env
 - Agregar las variables de entornos
-`
+
 DATABASE_NAME  (Nombre de base de datos)
 DATABASE_PASSWORD (Contraseña de la base datos)
 DATABASE_USER (Usuario con acceso a la base de datos)
@@ -38,7 +38,7 @@ PORT (Puerto del servidor)
 DATABASE_PORT (Puerto de la base de datos)
 TOKEN_SECRET (Token para JWT)
 DATABASE_HOST (Host de la base de datos)
-`
+
 
 
 ### Build
