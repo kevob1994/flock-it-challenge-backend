@@ -31,13 +31,13 @@ RUTA PRINCIPAL: https://flock-it-challenge-backend-production.up.railway.app
 - Crear archivo .env
 - Agregar las variables de entornos
 
-DATABASE_NAME  (Nombre de base de datos)
-DATABASE_PASSWORD (Contraseña de la base datos)
-DATABASE_USER (Usuario con acceso a la base de datos)
-PORT (Puerto del servidor)
-DATABASE_PORT (Puerto de la base de datos)
-TOKEN_SECRET (Token para JWT)
-DATABASE_HOST (Host de la base de datos)
+DATABASE_NAME  (Nombre de base de datos)<br>
+DATABASE_PASSWORD (Contraseña de la base datos)<br>
+DATABASE_USER (Usuario con acceso a la base de datos)<br>
+PORT (Puerto del servidor)<br>
+DATABASE_PORT (Puerto de la base de datos)<br>
+TOKEN_SECRET (Token para JWT)<br>
+DATABASE_HOST (Host de la base de datos)<br>
 
 
 
